@@ -1,0 +1,13 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Fil Rocks",
+            "email": "fil_rocks@mail.ru"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^8.19"
+    }
+}
